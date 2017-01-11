@@ -26,6 +26,6 @@ Check the number of images that can be downloaded from the website and start dow
 You can also set the page number from which the image have to be downloaded.
 
 ##Issue
-If you face any issue let me know. I not use to Github but will learn it to make thing right in this small but cool project.
+If you face any issue let me know. I do not use Github, but still will learn it to make thing right in this small, but cool project.
 
 Happy Downloading... :)
